@@ -1,0 +1,413 @@
+state_name,parameter_code,parameter_name,temporada,promedio_temporada
+Alabama,42101,Carbon monoxide,Invierno,0.29128525507441877
+Alabama,42101,Carbon monoxide,Verano,0.26576724140524566
+Alabama,42401,Sulfur dioxide,Invierno,1.253056308237818
+Alabama,42401,Sulfur dioxide,Verano,1.017421161212797
+Alabama,42602,Nitrogen dioxide (NO2),Invierno,10.768771696455985
+Alabama,42602,Nitrogen dioxide (NO2),Verano,8.7885076725458
+Alabama,44201,Ozone,Invierno,0.02321900904293332
+Alabama,44201,Ozone,Verano,0.025309922116202976
+Alaska,42101,Carbon monoxide,Invierno,0.6124821317609065
+Alaska,42101,Carbon monoxide,Verano,0.21068280943734546
+Alaska,42401,Sulfur dioxide,Invierno,9.459987096347605
+Alaska,42401,Sulfur dioxide,Verano,1.796429472446252
+Alaska,42602,Nitrogen dioxide (NO2),Invierno,25.089882215156322
+Alaska,42602,Nitrogen dioxide (NO2),Verano,3.0734380189056263
+Alaska,44201,Ozone,Invierno,0.02415470141533204
+Alaska,44201,Ozone,Verano,0.02133630654480695
+Arizona,42101,Carbon monoxide,Invierno,0.4891328968299293
+Arizona,42101,Carbon monoxide,Verano,0.21640606117350208
+Arizona,42401,Sulfur dioxide,Invierno,1.1476190358620966
+Arizona,42401,Sulfur dioxide,Verano,0.7166453792204032
+Arizona,42602,Nitrogen dioxide (NO2),Invierno,20.17093610875671
+Arizona,42602,Nitrogen dioxide (NO2),Verano,10.093561066558147
+Arizona,44201,Ozone,Invierno,0.024565460792183004
+Arizona,44201,Ozone,Verano,0.04119174167524305
+Arkansas,42101,Carbon monoxide,Invierno,0.33425343262623297
+Arkansas,42101,Carbon monoxide,Verano,0.3210706529586653
+Arkansas,42401,Sulfur dioxide,Invierno,0.8145747134666129
+Arkansas,42401,Sulfur dioxide,Verano,0.6264794429217321
+Arkansas,42602,Nitrogen dioxide (NO2),Invierno,7.951984058924254
+Arkansas,42602,Nitrogen dioxide (NO2),Verano,5.557142204615522
+Arkansas,44201,Ozone,Invierno,0.02462385097169507
+Arkansas,44201,Ozone,Verano,0.02871632911348732
+California,42101,Carbon monoxide,Invierno,0.4130731693973171
+California,42101,Carbon monoxide,Verano,0.24247513987732186
+California,42401,Sulfur dioxide,Invierno,0.45997711918390094
+California,42401,Sulfur dioxide,Verano,0.509710617247802
+California,42602,Nitrogen dioxide (NO2),Invierno,13.116136511589993
+California,42602,Nitrogen dioxide (NO2),Verano,7.714780900800809
+California,44201,Ozone,Invierno,0.024005083508645476
+California,44201,Ozone,Verano,0.037971121743589985
+Colorado,42101,Carbon monoxide,Invierno,0.4155339893969387
+Colorado,42101,Carbon monoxide,Verano,0.25177119316745755
+Colorado,42401,Sulfur dioxide,Invierno,1.0562163659876103
+Colorado,42401,Sulfur dioxide,Verano,0.7529247973136138
+Colorado,42602,Nitrogen dioxide (NO2),Invierno,15.27507093323612
+Colorado,42602,Nitrogen dioxide (NO2),Verano,8.257746281128133
+Colorado,44201,Ozone,Invierno,0.03209576335101019
+Colorado,44201,Ozone,Verano,0.04500484023908972
+Connecticut,42101,Carbon monoxide,Invierno,0.3241119630576163
+Connecticut,42101,Carbon monoxide,Verano,0.28195447781982
+Connecticut,42401,Sulfur dioxide,Invierno,0.43917264089302144
+Connecticut,42401,Sulfur dioxide,Verano,0.17717478085476887
+Connecticut,42602,Nitrogen dioxide (NO2),Invierno,13.002891335502792
+Connecticut,42602,Nitrogen dioxide (NO2),Verano,7.98595432471244
+Connecticut,44201,Ozone,Invierno,0.024677501692277587
+Connecticut,44201,Ozone,Verano,0.03478612731330993
+Delaware,42101,Carbon monoxide,Invierno,0.28813662264166295
+Delaware,42101,Carbon monoxide,Verano,0.2283134656556739
+Delaware,42401,Sulfur dioxide,Invierno,0.4446327516683966
+Delaware,42401,Sulfur dioxide,Verano,0.22703868168231942
+Delaware,42602,Nitrogen dioxide (NO2),Invierno,14.90591518307994
+Delaware,42602,Nitrogen dioxide (NO2),Verano,6.229822160277287
+Delaware,44201,Ozone,Invierno,0.022852796460375586
+Delaware,44201,Ozone,Verano,0.033707823564451976
+District Of Columbia,42101,Carbon monoxide,Invierno,0.40139739416518744
+District Of Columbia,42101,Carbon monoxide,Verano,0.3095795510342586
+District Of Columbia,42401,Sulfur dioxide,Invierno,0.9237278976131
+District Of Columbia,42401,Sulfur dioxide,Verano,0.8522492773841873
+District Of Columbia,42602,Nitrogen dioxide (NO2),Invierno,15.017351828072394
+District Of Columbia,42602,Nitrogen dioxide (NO2),Verano,8.312277019715966
+District Of Columbia,44201,Ozone,Invierno,0.019981633698767137
+District Of Columbia,44201,Ozone,Verano,0.03627462341229726
+Florida,42101,Carbon monoxide,Invierno,0.3207497183530846
+Florida,42101,Carbon monoxide,Verano,0.3016224548062967
+Florida,42401,Sulfur dioxide,Invierno,0.7071775489888762
+Florida,42401,Sulfur dioxide,Verano,0.6268864471340919
+Florida,42602,Nitrogen dioxide (NO2),Invierno,8.584500682181666
+Florida,42602,Nitrogen dioxide (NO2),Verano,5.900942625204165
+Florida,44201,Ozone,Invierno,0.027572573968034125
+Florida,44201,Ozone,Verano,0.022192900175571472
+Georgia,42101,Carbon monoxide,Invierno,0.4696089699051409
+Georgia,42101,Carbon monoxide,Verano,0.4526021384412036
+Georgia,42401,Sulfur dioxide,Invierno,1.0514056379234256
+Georgia,42401,Sulfur dioxide,Verano,0.826634217682415
+Georgia,42602,Nitrogen dioxide (NO2),Invierno,15.17197899029756
+Georgia,42602,Nitrogen dioxide (NO2),Verano,12.10935722897931
+Georgia,44201,Ozone,Invierno,0.021270649047108212
+Georgia,44201,Ozone,Verano,0.02598235567016414
+Hawaii,42101,Carbon monoxide,Invierno,0.26973256879966867
+Hawaii,42101,Carbon monoxide,Verano,0.22021292854287577
+Hawaii,42401,Sulfur dioxide,Invierno,8.883787966996946
+Hawaii,42401,Sulfur dioxide,Verano,5.328225051070088
+Hawaii,42602,Nitrogen dioxide (NO2),Invierno,4.477874994639324
+Hawaii,42602,Nitrogen dioxide (NO2),Verano,2.978392225478045
+Hawaii,44201,Ozone,Invierno,0.02749838993751042
+Hawaii,44201,Ozone,Verano,0.017490470207479875
+Idaho,42101,Carbon monoxide,Invierno,0.39045706114606904
+Idaho,42101,Carbon monoxide,Verano,0.28818928849729974
+Idaho,42401,Sulfur dioxide,Invierno,0.9607233588301486
+Idaho,42401,Sulfur dioxide,Verano,1.2574044299695564
+Idaho,42602,Nitrogen dioxide (NO2),Invierno,13.373429064404824
+Idaho,42602,Nitrogen dioxide (NO2),Verano,7.43313200436855
+Idaho,44201,Ozone,Invierno,0.023417228262366963
+Idaho,44201,Ozone,Verano,0.03579461351897597
+Illinois,42101,Carbon monoxide,Invierno,0.2530990111629187
+Illinois,42101,Carbon monoxide,Verano,0.21719972300673746
+Illinois,42401,Sulfur dioxide,Invierno,0.8068262601095457
+Illinois,42401,Sulfur dioxide,Verano,1.1091903489675798
+Illinois,42602,Nitrogen dioxide (NO2),Invierno,16.895552314149512
+Illinois,42602,Nitrogen dioxide (NO2),Verano,11.513527576911859
+Illinois,44201,Ozone,Invierno,0.02044016687553494
+Illinois,44201,Ozone,Verano,0.03424367426829893
+Indiana,42101,Carbon monoxide,Invierno,0.3153649889740679
+Indiana,42101,Carbon monoxide,Verano,0.3715858405520526
+Indiana,42401,Sulfur dioxide,Invierno,1.1884611254432764
+Indiana,42401,Sulfur dioxide,Verano,0.7140224851658918
+Indiana,42602,Nitrogen dioxide (NO2),Invierno,10.712738205021436
+Indiana,42602,Nitrogen dioxide (NO2),Verano,7.611256027805107
+Indiana,44201,Ozone,Invierno,0.02185671734435189
+Indiana,44201,Ozone,Verano,0.031645050209553695
+Iowa,42101,Carbon monoxide,Invierno,0.21444460501120943
+Iowa,42101,Carbon monoxide,Verano,0.20392631019971477
+Iowa,42401,Sulfur dioxide,Invierno,0.49247611788762036
+Iowa,42401,Sulfur dioxide,Verano,0.6084043549126207
+Iowa,42602,Nitrogen dioxide (NO2),Invierno,6.945178660511751
+Iowa,42602,Nitrogen dioxide (NO2),Verano,3.980366457872865
+Iowa,44201,Ozone,Invierno,0.022407509258400512
+Iowa,44201,Ozone,Verano,0.03217665211356573
+Kansas,42101,Carbon monoxide,Invierno,0.23279861882004152
+Kansas,42101,Carbon monoxide,Verano,0.17560810820643893
+Kansas,42401,Sulfur dioxide,Invierno,0.7767957677831359
+Kansas,42401,Sulfur dioxide,Verano,0.8373414336963455
+Kansas,42602,Nitrogen dioxide (NO2),Invierno,6.644313786899423
+Kansas,42602,Nitrogen dioxide (NO2),Verano,3.756890936048941
+Kansas,44201,Ozone,Invierno,0.02333492011350736
+Kansas,44201,Ozone,Verano,0.034762527467533326
+Kentucky,42101,Carbon monoxide,Invierno,0.27306618665922333
+Kentucky,42101,Carbon monoxide,Verano,0.25433209919241856
+Kentucky,42401,Sulfur dioxide,Invierno,0.764466267196709
+Kentucky,42401,Sulfur dioxide,Verano,0.6908848958808708
+Kentucky,42602,Nitrogen dioxide (NO2),Invierno,10.497566612739602
+Kentucky,42602,Nitrogen dioxide (NO2),Verano,7.880121147699015
+Kentucky,44201,Ozone,Invierno,0.024843134365721307
+Kentucky,44201,Ozone,Verano,0.03007347183727117
+Louisiana,42101,Carbon monoxide,Invierno,0.2794491887064073
+Louisiana,42101,Carbon monoxide,Verano,0.2337219805131767
+Louisiana,42401,Sulfur dioxide,Invierno,1.2931640552698223
+Louisiana,42401,Sulfur dioxide,Verano,0.7255845100544395
+Louisiana,42602,Nitrogen dioxide (NO2),Invierno,6.8446893565105995
+Louisiana,42602,Nitrogen dioxide (NO2),Verano,4.477157431739936
+Louisiana,44201,Ozone,Invierno,0.024536194216432276
+Louisiana,44201,Ozone,Verano,0.02218757469451604
+Maine,42101,Carbon monoxide,Invierno,0.19439937345342578
+Maine,42101,Carbon monoxide,Verano,0.16787468119340868
+Maine,42401,Sulfur dioxide,Invierno,0.529705423197529
+Maine,42401,Sulfur dioxide,Verano,0.33085822540845095
+Maine,42602,Nitrogen dioxide (NO2),Invierno,6.890521284019968
+Maine,42602,Nitrogen dioxide (NO2),Verano,2.8138472268913945
+Maine,44201,Ozone,Invierno,0.031349397356603165
+Maine,44201,Ozone,Verano,0.02691215609854061
+Maryland,42101,Carbon monoxide,Invierno,0.23351750539092564
+Maryland,42101,Carbon monoxide,Verano,0.1810156420721363
+Maryland,42401,Sulfur dioxide,Invierno,0.49615688894485216
+Maryland,42401,Sulfur dioxide,Verano,0.35442804434004466
+Maryland,42602,Nitrogen dioxide (NO2),Invierno,12.071162858483861
+Maryland,42602,Nitrogen dioxide (NO2),Verano,6.628654953363657
+Maryland,44201,Ozone,Invierno,0.02443098523684763
+Maryland,44201,Ozone,Verano,0.033001417882634256
+Massachusetts,42101,Carbon monoxide,Invierno,0.2913721171734636
+Massachusetts,42101,Carbon monoxide,Verano,0.22584468436220517
+Massachusetts,42401,Sulfur dioxide,Invierno,0.5600085961542304
+Massachusetts,42401,Sulfur dioxide,Verano,0.4358475180540067
+Massachusetts,42602,Nitrogen dioxide (NO2),Invierno,12.323300990122956
+Massachusetts,42602,Nitrogen dioxide (NO2),Verano,6.35846712548067
+Massachusetts,44201,Ozone,Invierno,0.026657187861359347
+Massachusetts,44201,Ozone,Verano,0.03139658651556712
+Michigan,42101,Carbon monoxide,Invierno,0.35538941066950597
+Michigan,42101,Carbon monoxide,Verano,0.33271723550395654
+Michigan,42401,Sulfur dioxide,Invierno,1.0353782238315377
+Michigan,42401,Sulfur dioxide,Verano,1.2030446816434244
+Michigan,42602,Nitrogen dioxide (NO2),Invierno,13.818137667714414
+Michigan,42602,Nitrogen dioxide (NO2),Verano,10.346035739057276
+Michigan,44201,Ozone,Invierno,0.022657851451785154
+Michigan,44201,Ozone,Verano,0.032710392887667014
+Minnesota,42101,Carbon monoxide,Invierno,0.2511792049223393
+Minnesota,42101,Carbon monoxide,Verano,0.24485614638819114
+Minnesota,42401,Sulfur dioxide,Invierno,0.7847902824028207
+Minnesota,42401,Sulfur dioxide,Verano,0.8928167277598446
+Minnesota,42602,Nitrogen dioxide (NO2),Invierno,8.956844156984443
+Minnesota,42602,Nitrogen dioxide (NO2),Verano,6.001704528153414
+Minnesota,44201,Ozone,Invierno,0.02646776650790342
+Minnesota,44201,Ozone,Verano,0.028834198014577143
+Mississippi,42101,Carbon monoxide,Invierno,0.23139927164034862
+Mississippi,42101,Carbon monoxide,Verano,0.14131607508322538
+Mississippi,42401,Sulfur dioxide,Invierno,0.5051820513888702
+Mississippi,42401,Sulfur dioxide,Verano,0.5380359209530626
+Mississippi,42602,Nitrogen dioxide (NO2),Invierno,5.6819327732042115
+Mississippi,42602,Nitrogen dioxide (NO2),Verano,3.353779005002233
+Mississippi,44201,Ozone,Invierno,0.025534927365359467
+Mississippi,44201,Ozone,Verano,0.026297663217227197
+Missouri,42101,Carbon monoxide,Invierno,0.2747894297364661
+Missouri,42101,Carbon monoxide,Verano,0.2625791345133113
+Missouri,42401,Sulfur dioxide,Invierno,0.8666093521301846
+Missouri,42401,Sulfur dioxide,Verano,0.7890193161478677
+Missouri,42602,Nitrogen dioxide (NO2),Invierno,11.888364312202658
+Missouri,42602,Nitrogen dioxide (NO2),Verano,8.350984768280833
+Missouri,44201,Ozone,Invierno,0.022441698884446897
+Missouri,44201,Ozone,Verano,0.03311078441670536
+Montana,42101,Carbon monoxide,Invierno,0.16737202237678458
+Montana,42101,Carbon monoxide,Verano,0.20435916558834524
+Montana,42401,Sulfur dioxide,Invierno,0.5817075333812667
+Montana,42401,Sulfur dioxide,Verano,0.909282194065906
+Montana,42602,Nitrogen dioxide (NO2),Invierno,0.9729495909121442
+Montana,42602,Nitrogen dioxide (NO2),Verano,1.0124301030608749
+Montana,44201,Ozone,Invierno,0.02921107687893479
+Montana,44201,Ozone,Verano,0.03395872914931929
+Nebraska,42101,Carbon monoxide,Invierno,0.30381783273461516
+Nebraska,42101,Carbon monoxide,Verano,0.24756346450455455
+Nebraska,42401,Sulfur dioxide,Invierno,0.6670613064940351
+Nebraska,42401,Sulfur dioxide,Verano,0.3263578992846123
+Nebraska,44201,Ozone,Invierno,0.023373353771396585
+Nebraska,44201,Ozone,Verano,0.033602540036012825
+Nevada,42101,Carbon monoxide,Invierno,0.5618267267351522
+Nevada,42101,Carbon monoxide,Verano,0.20993122532913697
+Nevada,42401,Sulfur dioxide,Invierno,0.9657767533831627
+Nevada,42401,Sulfur dioxide,Verano,0.42544754678709434
+Nevada,42602,Nitrogen dioxide (NO2),Invierno,19.417760412581607
+Nevada,42602,Nitrogen dioxide (NO2),Verano,11.768670089659846
+Nevada,44201,Ozone,Invierno,0.024743321578360712
+Nevada,44201,Ozone,Verano,0.045469439193233506
+New Hampshire,42101,Carbon monoxide,Invierno,0.17647231351778514
+New Hampshire,42101,Carbon monoxide,Verano,0.15047234203132567
+New Hampshire,42401,Sulfur dioxide,Invierno,1.139928022390013
+New Hampshire,42401,Sulfur dioxide,Verano,0.6307716096923924
+New Hampshire,42602,Nitrogen dioxide (NO2),Invierno,4.273572487123059
+New Hampshire,42602,Nitrogen dioxide (NO2),Verano,1.5595074349587672
+New Hampshire,44201,Ozone,Invierno,0.02975247238039621
+New Hampshire,44201,Ozone,Verano,0.028015996173571835
+New Jersey,42101,Carbon monoxide,Invierno,0.3771505949902168
+New Jersey,42101,Carbon monoxide,Verano,0.3120856576278209
+New Jersey,42401,Sulfur dioxide,Invierno,0.4446467119343858
+New Jersey,42401,Sulfur dioxide,Verano,0.43090323685092535
+New Jersey,42602,Nitrogen dioxide (NO2),Invierno,17.6993105629564
+New Jersey,42602,Nitrogen dioxide (NO2),Verano,10.809617038279072
+New Jersey,44201,Ozone,Invierno,0.020786809642464304
+New Jersey,44201,Ozone,Verano,0.03263093013796975
+New Mexico,42101,Carbon monoxide,Invierno,0.28408787649157796
+New Mexico,42101,Carbon monoxide,Verano,0.12650888802658303
+New Mexico,42401,Sulfur dioxide,Invierno,0.46106254329046925
+New Mexico,42401,Sulfur dioxide,Verano,0.4012085993391974
+New Mexico,42602,Nitrogen dioxide (NO2),Invierno,9.330748333988307
+New Mexico,42602,Nitrogen dioxide (NO2),Verano,4.599394516366885
+New Mexico,44201,Ozone,Invierno,0.026077166742457837
+New Mexico,44201,Ozone,Verano,0.042372435912655854
+New York,42101,Carbon monoxide,Invierno,0.2648416623632552
+New York,42101,Carbon monoxide,Verano,0.2064781299703518
+New York,42401,Sulfur dioxide,Invierno,0.5857096605746592
+New York,42401,Sulfur dioxide,Verano,0.21944557784987082
+New York,42602,Nitrogen dioxide (NO2),Invierno,13.989400090853971
+New York,42602,Nitrogen dioxide (NO2),Verano,8.367343432826699
+New York,44201,Ozone,Invierno,0.026535649194350593
+New York,44201,Ozone,Verano,0.03186687323304986
+North Carolina,42101,Carbon monoxide,Invierno,0.31543779673511074
+North Carolina,42101,Carbon monoxide,Verano,0.2390211855729882
+North Carolina,42401,Sulfur dioxide,Invierno,0.3123602631186343
+North Carolina,42401,Sulfur dioxide,Verano,0.12298450150401208
+North Carolina,42602,Nitrogen dioxide (NO2),Invierno,9.460567277461632
+North Carolina,42602,Nitrogen dioxide (NO2),Verano,5.324795281521049
+North Carolina,44201,Ozone,Invierno,0.026043719576828637
+North Carolina,44201,Ozone,Verano,0.03067979742686571
+North Dakota,42101,Carbon monoxide,Invierno,0.18594764178074438
+North Dakota,42101,Carbon monoxide,Verano,0.1573490639347427
+North Dakota,42401,Sulfur dioxide,Invierno,0.9892563940645901
+North Dakota,42401,Sulfur dioxide,Verano,0.9437887745307599
+North Dakota,42602,Nitrogen dioxide (NO2),Invierno,2.789181309669316
+North Dakota,42602,Nitrogen dioxide (NO2),Verano,2.316788675159847
+North Dakota,44201,Ozone,Invierno,0.02763180168390242
+North Dakota,44201,Ozone,Verano,0.03325491349095722
+Ohio,42101,Carbon monoxide,Invierno,0.25751253094143045
+Ohio,42101,Carbon monoxide,Verano,0.24990354892297423
+Ohio,42401,Sulfur dioxide,Invierno,0.75334345453611
+Ohio,42401,Sulfur dioxide,Verano,0.8091579326425578
+Ohio,42602,Nitrogen dioxide (NO2),Invierno,11.365465690997322
+Ohio,42602,Nitrogen dioxide (NO2),Verano,8.524147779359165
+Ohio,44201,Ozone,Invierno,0.02305026758788117
+Ohio,44201,Ozone,Verano,0.033468123978734735
+Oklahoma,42101,Carbon monoxide,Invierno,0.30989640533874685
+Oklahoma,42101,Carbon monoxide,Verano,0.30056607186250406
+Oklahoma,42401,Sulfur dioxide,Invierno,0.35259381933626566
+Oklahoma,42401,Sulfur dioxide,Verano,0.3403826044259934
+Oklahoma,42602,Nitrogen dioxide (NO2),Invierno,9.08481176389499
+Oklahoma,42602,Nitrogen dioxide (NO2),Verano,7.460251609499603
+Oklahoma,44201,Ozone,Invierno,0.024019436634702466
+Oklahoma,44201,Ozone,Verano,0.03448894082475409
+Oregon,42101,Carbon monoxide,Invierno,0.2814150746495246
+Oregon,42101,Carbon monoxide,Verano,0.19309160504350392
+Oregon,42401,Sulfur dioxide,Invierno,0.32024164751387957
+Oregon,42401,Sulfur dioxide,Verano,0.41057678120025476
+Oregon,42602,Nitrogen dioxide (NO2),Invierno,10.832820386609006
+Oregon,42602,Nitrogen dioxide (NO2),Verano,8.122717839272068
+Oregon,44201,Ozone,Invierno,0.015860228279180197
+Oregon,44201,Ozone,Verano,0.02578862094888718
+Pennsylvania,42101,Carbon monoxide,Invierno,0.3458382409175906
+Pennsylvania,42101,Carbon monoxide,Verano,0.3113227394434812
+Pennsylvania,42401,Sulfur dioxide,Invierno,1.166087261369141
+Pennsylvania,42401,Sulfur dioxide,Verano,1.002055477050117
+Pennsylvania,42602,Nitrogen dioxide (NO2),Invierno,11.835524352268376
+Pennsylvania,42602,Nitrogen dioxide (NO2),Verano,6.438159205420722
+Pennsylvania,44201,Ozone,Invierno,0.022159229217166208
+Pennsylvania,44201,Ozone,Verano,0.03246255626800025
+Puerto Rico,42101,Carbon monoxide,Invierno,0.4663923618657075
+Puerto Rico,42101,Carbon monoxide,Verano,0.5464130591153913
+Puerto Rico,42401,Sulfur dioxide,Invierno,0.80774710092907
+Puerto Rico,42401,Sulfur dioxide,Verano,1.0571396824508625
+Puerto Rico,42602,Nitrogen dioxide (NO2),Invierno,13.827400934560025
+Puerto Rico,42602,Nitrogen dioxide (NO2),Verano,8.846780071478873
+Puerto Rico,44201,Ozone,Invierno,0.010794925014012531
+Puerto Rico,44201,Ozone,Verano,0.008294226883647593
+Rhode Island,42101,Carbon monoxide,Invierno,0.39382604919190367
+Rhode Island,42101,Carbon monoxide,Verano,0.33320933563458194
+Rhode Island,42401,Sulfur dioxide,Invierno,0.4077193835345306
+Rhode Island,42401,Sulfur dioxide,Verano,0.1539070691030785
+Rhode Island,42602,Nitrogen dioxide (NO2),Invierno,13.8949111589737
+Rhode Island,42602,Nitrogen dioxide (NO2),Verano,7.1549578396624485
+Rhode Island,44201,Ozone,Invierno,0.026465200662387393
+Rhode Island,44201,Ozone,Verano,0.03291748147635126
+South Carolina,42101,Carbon monoxide,Invierno,0.13856593568780126
+South Carolina,42101,Carbon monoxide,Verano,0.13033701942994166
+South Carolina,42401,Sulfur dioxide,Invierno,0.2590325991739876
+South Carolina,42401,Sulfur dioxide,Verano,0.14790037392428834
+South Carolina,42602,Nitrogen dioxide (NO2),Invierno,6.420368263547102
+South Carolina,42602,Nitrogen dioxide (NO2),Verano,3.8194183078384976
+South Carolina,44201,Ozone,Invierno,0.02483714158518213
+South Carolina,44201,Ozone,Verano,0.026786954982741588
+South Dakota,42101,Carbon monoxide,Invierno,0.20525243248766875
+South Dakota,42101,Carbon monoxide,Verano,0.1717800300074732
+South Dakota,42401,Sulfur dioxide,Invierno,0.4919018567273179
+South Dakota,42401,Sulfur dioxide,Verano,0.4528672474375194
+South Dakota,42602,Nitrogen dioxide (NO2),Invierno,4.674186455503323
+South Dakota,42602,Nitrogen dioxide (NO2),Verano,2.525626297613034
+South Dakota,44201,Ozone,Invierno,0.03072505088030652
+South Dakota,44201,Ozone,Verano,0.037211080019620604
+Tennessee,42101,Carbon monoxide,Invierno,0.26510882396508506
+Tennessee,42101,Carbon monoxide,Verano,0.24828902556694316
+Tennessee,42401,Sulfur dioxide,Invierno,0.795617096221796
+Tennessee,42401,Sulfur dioxide,Verano,0.47529865931400217
+Tennessee,42602,Nitrogen dioxide (NO2),Invierno,9.842099475646272
+Tennessee,42602,Nitrogen dioxide (NO2),Verano,7.18814253522562
+Tennessee,44201,Ozone,Invierno,0.028817348052022712
+Tennessee,44201,Ozone,Verano,0.030264702034832523
+Texas,42101,Carbon monoxide,Invierno,0.31274994114528054
+Texas,42101,Carbon monoxide,Verano,0.27555178673579084
+Texas,42401,Sulfur dioxide,Invierno,0.3625278918364902
+Texas,42401,Sulfur dioxide,Verano,0.132509859300932
+Texas,42602,Nitrogen dioxide (NO2),Invierno,10.605557341096358
+Texas,42602,Nitrogen dioxide (NO2),Verano,5.611381605493401
+Texas,44201,Ozone,Invierno,0.02137813225643106
+Texas,44201,Ozone,Verano,0.025404908731989778
+Utah,42101,Carbon monoxide,Invierno,0.38352334059472
+Utah,42101,Carbon monoxide,Verano,0.15906254875447265
+Utah,42401,Sulfur dioxide,Invierno,0.6583635103727994
+Utah,42401,Sulfur dioxide,Verano,0.8356924167287185
+Utah,42602,Nitrogen dioxide (NO2),Invierno,8.88675264660604
+Utah,42602,Nitrogen dioxide (NO2),Verano,2.853235239527041
+Utah,44201,Ozone,Invierno,0.03247635940153832
+Utah,44201,Ozone,Verano,0.04523164957066738
+Vermont,42101,Carbon monoxide,Invierno,0.19947750444164178
+Vermont,42101,Carbon monoxide,Verano,0.18361522790245788
+Vermont,42401,Sulfur dioxide,Invierno,0.2347446649814421
+Vermont,42401,Sulfur dioxide,Verano,0.22832584065270323
+Vermont,42602,Nitrogen dioxide (NO2),Invierno,8.820079811755303
+Vermont,42602,Nitrogen dioxide (NO2),Verano,3.7171072198653876
+Vermont,44201,Ozone,Invierno,0.03124631218121735
+Vermont,44201,Ozone,Verano,0.02824181356014579
+Virginia,42101,Carbon monoxide,Invierno,0.28651170448496566
+Virginia,42101,Carbon monoxide,Verano,0.23647835938586512
+Virginia,42401,Sulfur dioxide,Invierno,0.5760931405374802
+Virginia,42401,Sulfur dioxide,Verano,0.3110581215171727
+Virginia,42602,Nitrogen dioxide (NO2),Invierno,9.199099865192956
+Virginia,42602,Nitrogen dioxide (NO2),Verano,4.811878095752914
+Virginia,44201,Ozone,Invierno,0.02621459908207683
+Virginia,44201,Ozone,Verano,0.02957171129299102
+Washington,42101,Carbon monoxide,Invierno,0.33954763632492896
+Washington,42101,Carbon monoxide,Verano,0.2517742481169759
+Washington,42401,Sulfur dioxide,Invierno,0.33186577686901503
+Washington,42401,Sulfur dioxide,Verano,0.5288737403950676
+Washington,42602,Nitrogen dioxide (NO2),Invierno,14.388123700578394
+Washington,42602,Nitrogen dioxide (NO2),Verano,11.993108431873152
+Washington,44201,Ozone,Invierno,0.022887417728554228
+Washington,44201,Ozone,Verano,0.02662564778612212
+West Virginia,42101,Carbon monoxide,Invierno,0.280147122330108
+West Virginia,42101,Carbon monoxide,Verano,0.2806501578201471
+West Virginia,42401,Sulfur dioxide,Invierno,2.1282230888114495
+West Virginia,42401,Sulfur dioxide,Verano,1.8855176974865722
+West Virginia,44201,Ozone,Invierno,0.023824982098549666
+West Virginia,44201,Ozone,Verano,0.029316053343588715
+Wisconsin,42101,Carbon monoxide,Invierno,0.2659461904436498
+Wisconsin,42101,Carbon monoxide,Verano,0.2433863125363524
+Wisconsin,42401,Sulfur dioxide,Invierno,0.40066614863311045
+Wisconsin,42401,Sulfur dioxide,Verano,0.6636959772349387
+Wisconsin,42602,Nitrogen dioxide (NO2),Invierno,13.215096283525355
+Wisconsin,42602,Nitrogen dioxide (NO2),Verano,8.044484974472791
+Wisconsin,44201,Ozone,Invierno,0.027557127773430615
+Wisconsin,44201,Ozone,Verano,0.03368934722704594
+Wyoming,42101,Carbon monoxide,Invierno,0.1070149166138147
+Wyoming,42101,Carbon monoxide,Verano,0.11923812368413853
+Wyoming,42401,Sulfur dioxide,Invierno,0.8724561328944083
+Wyoming,42401,Sulfur dioxide,Verano,1.0584134175927622
+Wyoming,42602,Nitrogen dioxide (NO2),Invierno,2.552149907946457
+Wyoming,42602,Nitrogen dioxide (NO2),Verano,1.8487496442083209
+Wyoming,44201,Ozone,Invierno,0.037741137172721796
+Wyoming,44201,Ozone,Verano,0.04105029870925627
