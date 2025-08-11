@@ -29,21 +29,10 @@ Air-Quality-USA-Analysis/
 
 ---
 
-## 🌐 Recursos
-
-## 🌐 Recursos
-
-- 📂 [**Descargar tabla** `measurement` (SQL, Google Drive)](https://drive.google.com/uc?id=1f5AbJXAao2tyihk8RpGkH7jJ57XMzCIR&export=download)
-- 🌎 [Datos de calidad del aire de la EPA](https://www.epa.gov/outdoor-air-quality-data)
-- 📖 [Guía de AQI](https://www.airnow.gov/aqi/aqi-basics/)
-- 🗂️ [Datos históricos de calidad del aire en EE.UU.](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
-- 📊 [Documentación de Seaborn](https://seaborn.pydata.org/)
-
----
-
 ## 📊 Visualizaciones incluidas
 
 ### 🗺️ Mapas
+
 - [Mapa de concentración por estado (2024)](exportados/mapa_concentracion_estados_2024.png)
 
 ### 🌦️ Estacionalidad y series
@@ -54,6 +43,8 @@ Air-Quality-USA-Analysis/
 - [Estacionalidad O₃](exportados/estacional_ozone.png)
 - [Estacionalidad SO₂](exportados/estacional_sulfur_dioxide.png)
 - [Comparativa invierno vs verano (CSV)](exportados/comparativa_invierno_verano.csv)
+
+---
 
 ### 📈 Tendencias anuales
 - [Tendencia anual CO](exportados/tendencia_anual_CO.png)
@@ -76,5 +67,15 @@ Air-Quality-USA-Analysis/
 
 ### 🔎 Comparativas y otros
 - [Heatmap de contaminantes (2024)](exportados/heatmap_contaminantes_2024.png)
+
+---
+
+## 🌐 Recursos
+
+- 📂 [**Descargar tabla** `measurement` (SQL, Google Drive)](https://drive.google.com/uc?id=1f5AbJXAao2tyihk8RpGkH7jJ57XMzCIR&export=download)
+- 🌎 [Datos de calidad del aire de la EPA](https://www.epa.gov/outdoor-air-quality-data)
+- 📖 [Guía de AQI](https://www.airnow.gov/aqi/aqi-basics/)
+- 🗂️ [Datos históricos de calidad del aire en EE.UU.](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
+- 📊 [Documentación de Seaborn](https://seaborn.pydata.org/)
 
 ---
