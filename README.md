@@ -75,8 +75,6 @@ Air-Quality-USA-Analysis/
   [SO₂](exportados/Top%205%20Condados%20con%20Mayor%20Concentraci%C3%B3n%20SO2%20en%202018.png)
 
 ### 🔎 Comparativas y otros
-- [Barras comparativas contaminantes (2024)](exportados/comparativa_contaminantes_2024_bar.png)
-- [Radar contaminantes – California](exportados/radar_contaminantes_california.png)
 - [Heatmap de contaminantes (2024)](exportados/heatmap_contaminantes_2024.png)
 
 ---
