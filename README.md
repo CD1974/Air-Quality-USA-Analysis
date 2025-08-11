@@ -1,4 +1,6 @@
 # **🗽🌬️📊 Air-Quality-USA-Analysis**
+Este análisis estudia la calidad del aire en Estados Unidos, utilizando datos históricos provenientes de la EPA sobre contaminantes atmosféricos como NO₂, SO₂, O₃ y CO. El objetivo es identificar tendencias temporales, diferencias geográficas y eventos críticos que afecten la calidad del aire a nivel estatal y nacional.
+El proyecto incluye consultas SQL optimizadas, visualizaciones interactivas y está respaldado por un modelo entidad-relación (ERD) que facilita la organización y análisis de los datos.
 
 ---
 
