@@ -31,11 +31,14 @@ Air-Quality-USA-Analysis/
 
 ## 🌐 Recursos
 
-- 📂 [Descargar tabla `measurement` (SQL, Google Drive)](https://drive.google.com/uc?id=1f5AbJXAao2tyihk8RpGkH7jJ57XMzCIR&export=download)
+## 🌐 Recursos
+
+- 📂 [**Descargar tabla** `measurement` (SQL, Google Drive)](https://drive.google.com/uc?id=1f5AbJXAao2tyihk8RpGkH7jJ57XMzCIR&export=download)
 - 🌎 [Datos de calidad del aire de la EPA](https://www.epa.gov/outdoor-air-quality-data)
 - 📖 [Guía de AQI](https://www.airnow.gov/aqi/aqi-basics/)
 - 🗂️ [Datos históricos de calidad del aire en EE.UU.](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
 - 📊 [Documentación de Seaborn](https://seaborn.pydata.org/)
+
 
 ---
 
