@@ -2,25 +2,39 @@
 
 ---
 
-## **📦 Estructura del proyecto**
+## ** 📂Estructura del proyecto**
 
 ```sql
+
 Air-Quality-USA-Analysis/
-├── notebooks/                  # Jupyter notebooks
-│   └── Proyecto Integrador Unicorn.ipynb
-├── sql/                        # Scripts SQL
-│   └── insert_xxx.sql
-├── exportados/                 # Gráficos e informes (ya los tenés)
-├── data/                       # CSV con datos limpios
-│   └── tendencia_anual_CO.csv
-├── utils/
-│   └── db_connection.py        # Script de conexión a la DB
-├── erd/
-│   └── ERD Air Quality USA.mwb
-├── README.md
-├── requirements.txt
-└── .gitignore
+│
+├── 📓 Notebook/                  # Jupyter notebooks del análisis principal
+│   └── 📒 Proyecto Calidad del Aire USA.ipynb
+│
+├── 🐍 __pycache__/                # Archivos compilados automáticamente por Python
+│
+├── 📊 data/                       # Archivos CSV con datos procesados y limpios
+│   ├── 📄 promedios_anuales_estatales.csv
+│   ├── 📄 tendencia_anual_CO.csv
+│   ├── 📄 tendencia_anual_NO2.csv
+│   └── 📄 tendencia_anual_O3.csv
+│
+├── 🗺️ erd/                        # Modelo entidad-relación
+│   └── 📐 ERD Air Quality USA.mwb
+│
+├── 🖼️ exportados/                 # Gráficos e informes generados
+│
+├── 🗄️ sql/                        # Scripts SQL
+│   └── 📜 insert_station.sql
+│
+├── 🛠️ utils/                      # Funciones y scripts de utilidad
+│   └── ⚙️ db_connection.py
+│
+├── 🚫 .gitignore                  # Archivos y carpetas a excluir del control de versiones
+├── 📄 README.md                   # Documentación principal del proyecto
+└── 📦 requirements.txt            # Dependencias necesarias para reproducir el análisis
 ```
+
 ---
 
 ## 📐 Diagrama ER del Data Mart
