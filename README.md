@@ -45,9 +45,6 @@ Air-Quality-USA-Analysis/
 
 ### 🗺️ Mapas
 - [Mapa de concentración por estado (2024)](exportados/mapa_concentracion_estados_2024.png)
-- [Mapa comparativo estacional](exportados/mapa_comparativo_estacional.png)
-- [Mapa estacional (dinámico)](exportados/mapa_estacional_dynamic.png)
-- [Mapa estacional (dinámico, versión fija)](exportados/mapa_estacional_dynamic_fixed.png)
 
 ### 🌦️ Estacionalidad y series
 - [Comparativa estacional – California](exportados/comparativa_estacional_california.png)
